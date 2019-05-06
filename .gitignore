@@ -1,0 +1,8 @@
+# ignores any file beginning with hidden
+hidden*.*
+# ignores any .a files
+*.a
+# ignores any files in the hidden folder and sub-folders
+hidden/**
+#ignores some temporary files
+*~
